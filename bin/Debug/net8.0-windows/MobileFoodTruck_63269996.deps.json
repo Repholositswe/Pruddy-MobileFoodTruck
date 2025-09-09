@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MobileFoodTruck_63269996/1.0.0": {
+        "runtime": {
+          "MobileFoodTruck_63269996.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MobileFoodTruck_63269996/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
